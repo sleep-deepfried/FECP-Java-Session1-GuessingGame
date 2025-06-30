@@ -13,9 +13,11 @@ If the player guesses right within 3 tries, display a "You win!" message.
 If they use all 3 tries without guessing correctly, display "You lose. The correct number was X."
 
 ## Sample Output
-If player wins
+### If player wins
+
 ![img_1.png](img_1.png)
 
 
-if player fails.
+### if player fails.
+
 ![img.png](img.png)
